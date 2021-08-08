@@ -1,0 +1,2 @@
+link para download do Git Bash local https://git-scm.com/download
+Git Bash é um Terminal extendido para gerenciar o Git
